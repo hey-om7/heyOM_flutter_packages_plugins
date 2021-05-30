@@ -24,6 +24,8 @@ No Permissions Required
 OnBackPressed(),
 ```
 
+## Note:This widget needs to be placed as parent of Scaffold
+
 ## Requires a child widget
 
 ## Requires a function

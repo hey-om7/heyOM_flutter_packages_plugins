@@ -1,11 +1,11 @@
 name: back_pressed
 description: Catches the back pressed button and performs user defined action.
-version: 0.0.1
+version: 0.0.2
 # author:
 homepage: https://github.com/hey-om7/FlutterPackage_backPressed
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
+  sdk: ">=2.12.0 <3.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
